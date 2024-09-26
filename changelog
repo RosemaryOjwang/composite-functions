@@ -4,5 +4,6 @@ This file contains the notable changes to the project
 Version 1.0.0 (09-26-2024)
 ## New
     - Calculated the Total Revenue for the Kitchen supplies company using SUMPRODUCT function.
+    -Calculated the profit margin using SUMPRODUCT function.
     
 
